@@ -1,5 +1,5 @@
 # Used-Car-Price-Prediction
-Used Car Price Prediction using Machine Learning with Python.  This is a Regression Machine Learning Project. Models used 1.Linear Regression 2.Lasso Regression
+Used Car Price Prediction using Machine Learning with Python. This is a Regression Machine Learning Project. Models used 1.Linear Regression 2.Lasso Regression
 About the dataset: car_data
 Features
    Car_Name	
